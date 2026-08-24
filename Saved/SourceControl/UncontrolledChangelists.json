@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/cocop/Documents/GitHub/LootTheDungeon/Content/Blueprint/Items/DT_Items.uasset",
+				"C:/Users/cocop/Documents/GitHub/LootTheDungeon/Content/Art/Corentin/Armes/Arme_Une_main/standardSurface1.uasset",
+				"C:/Users/cocop/Documents/GitHub/LootTheDungeon/Content/Art/Corentin/Armes/Arme_Une_main/Poelle_01.uasset",
+				"C:/Users/cocop/Documents/GitHub/LootTheDungeon/Content/Maps/L_Main.umap",
+				"C:/Users/cocop/Documents/GitHub/LootTheDungeon/Content/Blueprint/Items/Items/Item_FryingPan.uasset",
 				"D:/Game projects/Unreal/LootTheDungeon/Content/Maps/Tavern/Tavern.umap",
 				"D:/Game projects/Unreal/LootTheDungeon/Content/Maps/Tavern/DungeonStarter.uasset",
 				"D:/Game projects/Unreal/LootTheDungeon/Content/Maps/Tavern/QuestBoard/BP_QuestBoard.uasset",
