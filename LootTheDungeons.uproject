@@ -14,6 +14,10 @@
 		{
 			"Name": "ProceduralDungeon",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamSockets",
+			"Enabled": true
 		}
 	]
 }
